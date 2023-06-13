@@ -1,0 +1,57 @@
+Display Modes  .display
+
+Flexbox  .flex 
+
+Flexbox Direction (Horizontal) .justify-alignment (start, center,end,between, around)
+
+Flexbox Direction (Vertical) .items-alignment (stretch,start,center,end,baseline)
+
+Flexbox Direction .flex-direction (row,row-reverse,col,col-reverse)
+
+
+FLexbox Wrap - .flex-wrap (no-wrap,wrap,wrap-reverse )
+
+
+Responsive Design .breakpoint:classes  
+(responsive classes)
+(.sm:bg-*)
+(.sm:w-*)
+(.sm:h-*)
+(.sm:p-*)
+(.sm:m-*)
+
+
+Hover Modifier  .hover:classes
+(Hover Classes)
+.hover:bg-
+.hover:text
+.hover:font
+.hover:border
+
+
+Focus Modifier .focus:classes
+(Focus Classes)
+.focus:bg-
+.focus:text
+.focus:font
+.focus:border
+
+Combination Modifier   .md:hover:classes
+(Combination classes)
+
+Other Utilities 
+.shadow-size (md,lg,xl,2xl,inner,outline,none)
+.opacity-percent (100,75,50,25,0 )
+.cursor-style (pointer,wait,text,move,not-allowed)
+.select-style (none,text,all,auto)
+
+
+
+ 
+
+
+
+
+
+
+
